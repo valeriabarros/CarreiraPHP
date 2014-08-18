@@ -2,7 +2,7 @@
 
 ##Responsabilidades
 
-É um desenvolvedor em início de carreira, acabou de sair da faculdade (ou está ainda cursando) e não tem experiência comprovada no desenvolvimento de softwares dentro de uma empresa.
+É um desenvolvedor em início de carreira, acabou de sair da faculdade (ou está ainda cursando) e não tem experiência (ou pouca) comprovada no desenvolvimento de softwares dentro de uma empresa.
 Seu foco de atuação é no desenvolvimento de cada unidade de um software, e para isso deve receber as especificações completas dos problema contendo: entradas, comportamentos esperados e saídas.
 
 ##Requisitos
@@ -30,7 +30,7 @@ Seu foco de atuação é no desenvolvimento de cada unidade de um software, e pa
 	- Virtual hosts;
 	- mod_rewrite;
 - Conhecimento básico sobre sistemas operacionais e linha de comando. Comandos como `ls`, `cd`, `pwd`, `history`, `mkdir`, `cp`, `mv`, `man`, `cat`, `head`, `tail`, `touch`, `less`, `nano`, `vi`, `chmod`, `chown`, `apachectl`, `apt-get`, `yum`;
-- Conhecimento básico do uso do git (checkout, pull, commit, push, add, reset);
+- Conhecimento básico do uso do git (checkout, pull, commit, push, add, reset) ou outros serviços de versionamento (dependendo da estrutura da empresa);
 - Conhece e utiliza ao menos a PSR­0
 
 #Desejável
