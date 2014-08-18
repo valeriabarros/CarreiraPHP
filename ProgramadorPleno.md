@@ -52,6 +52,7 @@ cherry­pick);
 computacionalmente, trazendo soluções viáveis; 
 - Conhecimento sobre Cloud Computing (IaaS, PaaS e SaaS);
 - Conhece o manifesto ágil e seus princípios, e entende os papéis definidos pelo SCRUM
+- Mais de 2 anos comprovados em desenvolvimento de softwares.
 
 
 #Desejável
